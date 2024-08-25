@@ -1,0 +1,24 @@
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #343a40;
+}
+
+textarea {
+  resize: none;
+}
+
+.mt-3, .my-3 {
+  margin-top: 1rem !important;
+}
+
+.mb-4, .my-4 {
+  margin-bottom: 1.5rem !important;
+}
